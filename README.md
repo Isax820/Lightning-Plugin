@@ -20,3 +20,5 @@ Ideal for admin tools, events, and fun moderation
 
 
 © Plugin developed by Isax and Moshy0w0TM
+
+2026
