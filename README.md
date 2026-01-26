@@ -19,4 +19,4 @@ Adds dramatic visual and sound effects
 Ideal for admin tools, events, and fun moderation
 
 
-©️Plugin developed by Isax and Moshy0w0TM
+© Plugin developed by Isax and Moshy0w0TM
