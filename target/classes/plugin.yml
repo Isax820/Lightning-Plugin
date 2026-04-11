@@ -1,8 +1,8 @@
 name: LightningPlugin
-version: 1.0
+version: 1.8
 main: org.lightning.lightningPlugin.LightningPlugin
 api-version: 1.20
-author: Moshy0w0TM et Isax
+author: Isax et Moshy0w0TM
 description: LightningPlugin
 
 commands:
